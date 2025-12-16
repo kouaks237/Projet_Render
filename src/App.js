@@ -110,7 +110,6 @@ function App() {
           }
         />
 
-
         {/* Dashboard SANS Header/Footer */}
         <Route path="/dashboard" element={<Dashboard />} />
 
